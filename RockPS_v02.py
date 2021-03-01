@@ -4,7 +4,6 @@ Created on Wed Feb 24 00:32:29 2021
 
 @author: Roger
 """
-
 import keyboard as kyb
 import random as rdm
 import sys
